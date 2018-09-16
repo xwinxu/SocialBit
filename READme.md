@@ -20,4 +20,4 @@ We're proud of our concept and for getting most of our backend figured out.
 Continuing to refine our technical end, while moving towards integration with other types of personal data. How many steps did you take with your friend? Which friend do you eat more with?
 Incentivization is another possibility. Loneliness is a legitimate problem in an increasingly disconnected world - what if our platform could incentivize people to reach their socialization goals, like the FitBit does with exercise?
 
-Created at HackMIT 2018.
+# Created at HackMIT 2018.
