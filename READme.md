@@ -21,3 +21,4 @@ Continuing to refine our technical end, while moving towards integration with ot
 Incentivization is another possibility. Loneliness is a legitimate problem in an increasingly disconnected world - what if our platform could incentivize people to reach their socialization goals, like the FitBit does with exercise?
 
 ### Created at HackMIT 2018.
+### Devpost: https://devpost.com/software/socialbit-yw8lud
